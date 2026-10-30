@@ -1,0 +1,32 @@
+[
+  {
+    "guid": {
+      "a": "2d3cc1b8-9481-ec69-63c9-d8fa6f840a6a",
+      "b": ""
+    },
+    "extraType": "ResItemPNGImage",
+    "name": "texture_0 (11)",
+    "version": "0.2.0",
+    "rttiType": "Texture",
+    "authorizationInfo": "",
+    "extendedInfo": {
+      "isVisibleInInspector": true,
+      "hideInPanel": false,
+      "expandInPanel": false
+    },
+    "compressionType": 0,
+    "compressQuality": 0,
+    "compressMaxResolution": 512,
+    "enableMipmap": false,
+    "filterMin": 1,
+    "filterMag": 1,
+    "filterMipmap": 0,
+    "wrapModeS": 0,
+    "wrapModeT": 0,
+    "wrapModeR": 0,
+    "premultiplyAlpha": false,
+    "objGuid": "",
+    "resourceFilePath": "C:\\Users\\26428\\Desktop\\灵感实验室\\数值门突击\\Assets\\纹理\\texture_0 (11).png",
+    "references": []
+  }
+]

@@ -1,0 +1,21 @@
+[
+  {
+    "guid": {
+      "a": "7cf194b5-0c00-8d77-d267-9ff942577df3",
+      "b": ""
+    },
+    "extraType": "ResItemMaterialOmtl",
+    "name": "遮罩",
+    "version": "0.6.0",
+    "authorizationInfo": "",
+    "extendedInfo": {
+      "isVisibleInInspector": true,
+      "hideInPanel": false,
+      "expandInPanel": false
+    },
+    "objGuid": "",
+    "resourceFilePath": "C:\\Users\\26428\\AppData\\Local\\Douyin AR\\Resources\\BuiltinResource\\assets\\OrionShaderLibrary\\3D\\BuiltIn\\Occluder\\Occluder.omtl",
+    "references": [],
+    "currAuslVersion": "1.0.0"
+  }
+]

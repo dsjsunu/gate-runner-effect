@@ -1,0 +1,74 @@
+[
+  {
+    "guid": {
+      "a": "7dad57b8-f843-9a10-00f7-5862b46b6ac1",
+      "b": ""
+    },
+    "extraType": "ResItemAssimpAsset",
+    "name": "elite_leg",
+    "version": "0.2.0",
+    "rttiType": "Model",
+    "authorizationInfo": "",
+    "extendedInfo": {
+      "isVisibleInInspector": true,
+      "hideInPanel": false,
+      "expandInPanel": false
+    },
+    "importVertexColor": false,
+    "importBlendshape": true,
+    "importAnimation": true,
+    "importVertexAnimation": false,
+    "importNormalTangentBinormal": true,
+    "regenerateNormalTangentBinormal": true,
+    "importCamera": false,
+    "importLights": false,
+    "optimizeAnimation": true,
+    "convertMetersToCentimeters": false,
+    "castShadow": true,
+    "rigMatchArray": [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    "needAutoRigMatch": true,
+    "objGuid": "",
+    "resourceFilePath": "C:/Users/26428/Documents/Codex/2026-10-28/m-tok-16-48-mcp-xiangsu/gate-original-assets/elite_leg.glb",
+    "references": [
+      {
+        "propertyName": "0",
+        "guid": "eb8bf743-c669-1424-b8e1-e0885a6b1032"
+      },
+      {
+        "propertyName": "1",
+        "guid": "310b7f48-3b4d-7c62-165f-c9651037836e"
+      }
+    ],
+    "materialsGUIDs": [
+      "eb8bf743-c669-1424-b8e1-e0885a6b1032",
+      "310b7f48-3b4d-7c62-165f-c9651037836e"
+    ],
+    "meshGUIDs": [
+      "7f098a8d-d4bf-232b-fd93-4309e93ed052",
+      "5759c62f-872e-4b13-f900-3f436c2686a6"
+    ],
+    "animazGUIDs": [],
+    "animazExtras": []
+  }
+]

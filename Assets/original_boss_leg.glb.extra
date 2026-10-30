@@ -1,0 +1,68 @@
+[
+  {
+    "guid": {
+      "a": "7a1de3b0-54d3-4cdb-ccdd-abe3ec666a2e",
+      "b": ""
+    },
+    "extraType": "ResItemAssimpAsset",
+    "name": "original_boss_leg",
+    "version": "0.2.0",
+    "rttiType": "Model",
+    "authorizationInfo": "",
+    "extendedInfo": {
+      "isVisibleInInspector": true,
+      "hideInPanel": false,
+      "expandInPanel": false
+    },
+    "importVertexColor": false,
+    "importBlendshape": true,
+    "importAnimation": true,
+    "importVertexAnimation": false,
+    "importNormalTangentBinormal": true,
+    "regenerateNormalTangentBinormal": true,
+    "importCamera": false,
+    "importLights": false,
+    "optimizeAnimation": true,
+    "convertMetersToCentimeters": false,
+    "castShadow": true,
+    "rigMatchArray": [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    "needAutoRigMatch": true,
+    "objGuid": "",
+    "resourceFilePath": "C:/Users/26428/Documents/Codex/2026-10-28/m-tok-16-48-mcp-xiangsu/gate-original-assets/original_boss_leg.glb",
+    "references": [
+      {
+        "propertyName": "0",
+        "guid": "43928e14-bd53-d476-4787-8e81f969b81d"
+      }
+    ],
+    "materialsGUIDs": [
+      "43928e14-bd53-d476-4787-8e81f969b81d"
+    ],
+    "meshGUIDs": [
+      "12d8f162-cb2f-0892-65dd-94a4a3322ed8"
+    ],
+    "animazGUIDs": [],
+    "animazExtras": []
+  }
+]

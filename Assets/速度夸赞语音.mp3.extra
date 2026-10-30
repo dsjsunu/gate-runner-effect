@@ -1,0 +1,22 @@
+[
+  {
+    "guid": {
+      "a": "1d51de4e-21f5-a578-eabf-3b03e54d80c2",
+      "b": ""
+    },
+    "extraType": "ResItemMP3",
+    "name": "速度夸赞语音",
+    "version": "0.1.0",
+    "rttiType": "AudioAsset",
+    "authorizationInfo": "",
+    "extendedInfo": {
+      "isVisibleInInspector": true,
+      "hideInPanel": false,
+      "expandInPanel": false
+    },
+    "mccState": "SUCCESS",
+    "objGuid": "",
+    "resourceFilePath": "C:\\Users\\26428\\AppData\\Local\\Temp\\dyeh-mcp-aigc\\audio\\1793179896035_0kuqv02as60j\\速度夸赞语音.mp3",
+    "references": []
+  }
+]

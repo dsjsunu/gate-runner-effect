@@ -1,0 +1,68 @@
+[
+  {
+    "guid": {
+      "a": "a6a098f1-c45f-16f3-ddad-b16e679c1978",
+      "b": ""
+    },
+    "extraType": "ResItemAssimpAsset",
+    "name": "original_red_body",
+    "version": "0.2.0",
+    "rttiType": "Model",
+    "authorizationInfo": "",
+    "extendedInfo": {
+      "isVisibleInInspector": true,
+      "hideInPanel": false,
+      "expandInPanel": false
+    },
+    "importVertexColor": false,
+    "importBlendshape": true,
+    "importAnimation": true,
+    "importVertexAnimation": false,
+    "importNormalTangentBinormal": true,
+    "regenerateNormalTangentBinormal": true,
+    "importCamera": false,
+    "importLights": false,
+    "optimizeAnimation": true,
+    "convertMetersToCentimeters": false,
+    "castShadow": true,
+    "rigMatchArray": [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    "needAutoRigMatch": true,
+    "objGuid": "",
+    "resourceFilePath": "C:/Users/26428/Documents/Codex/2026-10-28/m-tok-16-48-mcp-xiangsu/gate-original-assets/original_red_body.glb",
+    "references": [
+      {
+        "propertyName": "0",
+        "guid": "3dbedae2-097f-2af8-2038-3454bc1713ec"
+      }
+    ],
+    "materialsGUIDs": [
+      "3dbedae2-097f-2af8-2038-3454bc1713ec"
+    ],
+    "meshGUIDs": [
+      "8847b823-d378-a550-f753-1822363894d1"
+    ],
+    "animazGUIDs": [],
+    "animazExtras": []
+  }
+]

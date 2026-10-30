@@ -1,0 +1,32 @@
+[
+  {
+    "guid": {
+      "a": "c9513451-0613-e88e-16ba-43895f656745",
+      "b": ""
+    },
+    "extraType": "ResItemPNGImage",
+    "name": "清爽蓝色游戏面板",
+    "version": "0.2.0",
+    "rttiType": "Texture",
+    "authorizationInfo": "",
+    "extendedInfo": {
+      "isVisibleInInspector": true,
+      "hideInPanel": false,
+      "expandInPanel": false
+    },
+    "compressionType": 0,
+    "compressQuality": 0,
+    "compressMaxResolution": 512,
+    "enableMipmap": false,
+    "filterMin": 1,
+    "filterMag": 1,
+    "filterMipmap": 0,
+    "wrapModeS": 0,
+    "wrapModeT": 0,
+    "wrapModeR": 0,
+    "premultiplyAlpha": false,
+    "objGuid": "",
+    "resourceFilePath": "C:/Users/26428/Documents/Codex/2026-10-28/m-tok-16-48-mcp-xiangsu/gate-original-assets/清爽蓝色游戏面板.png",
+    "references": []
+  }
+]

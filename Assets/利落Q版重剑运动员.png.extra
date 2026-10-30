@@ -1,0 +1,32 @@
+[
+  {
+    "guid": {
+      "a": "1553ef79-74ee-c237-0be1-b32b9aa08456",
+      "b": ""
+    },
+    "extraType": "ResItemPNGImage",
+    "name": "利落Q版重剑运动员",
+    "version": "0.2.0",
+    "rttiType": "Texture",
+    "authorizationInfo": "",
+    "extendedInfo": {
+      "isVisibleInInspector": true,
+      "hideInPanel": false,
+      "expandInPanel": false
+    },
+    "compressionType": 0,
+    "compressQuality": 0,
+    "compressMaxResolution": 512,
+    "enableMipmap": false,
+    "filterMin": 1,
+    "filterMag": 1,
+    "filterMipmap": 0,
+    "wrapModeS": 0,
+    "wrapModeT": 0,
+    "wrapModeR": 0,
+    "premultiplyAlpha": false,
+    "objGuid": "",
+    "resourceFilePath": "C:\\Users\\26428\\AppData\\Local\\Temp\\dyeh-mcp-aigc\\image\\1793237109896_s8rg2m43m6\\利落Q版重剑运动员.png",
+    "references": []
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "guid": {
+      "a": "a3aa5abe-06f6-a5c6-d2e6-26cf9bfd27c7",
+      "b": ""
+    },
+    "extraType": "ResItemMP3",
+    "name": "弹珠碰撞音",
+    "version": "0.1.0",
+    "rttiType": "AudioAsset",
+    "authorizationInfo": "",
+    "extendedInfo": {
+      "isVisibleInInspector": true,
+      "hideInPanel": false,
+      "expandInPanel": false
+    },
+    "mccState": "SUCCESS",
+    "objGuid": "",
+    "resourceFilePath": "C:\\Users\\26428\\AppData\\Local\\Temp\\dyeh-mcp-aigc\\audio\\1793237785589_9m6a7p2ulue\\弹珠碰撞音.mp3",
+    "references": []
+  }
+]

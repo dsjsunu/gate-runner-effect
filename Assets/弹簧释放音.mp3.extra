@@ -1,0 +1,22 @@
+[
+  {
+    "guid": {
+      "a": "226a4449-2f2d-7caf-8efa-772031d78f24",
+      "b": ""
+    },
+    "extraType": "ResItemMP3",
+    "name": "弹簧释放音",
+    "version": "0.1.0",
+    "rttiType": "AudioAsset",
+    "authorizationInfo": "",
+    "extendedInfo": {
+      "isVisibleInInspector": true,
+      "hideInPanel": false,
+      "expandInPanel": false
+    },
+    "mccState": "SUCCESS",
+    "objGuid": "",
+    "resourceFilePath": "C:\\Users\\26428\\AppData\\Local\\Temp\\dyeh-mcp-aigc\\audio\\1793237785543_n7q9tbi54h\\弹簧释放音.mp3",
+    "references": []
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "guid": {
+      "a": "b7cca009-4175-1b21-9bee-14aabc9f31b4",
+      "b": ""
+    },
+    "extraType": "ResItemMP3",
+    "name": "接招语音",
+    "version": "0.1.0",
+    "rttiType": "AudioAsset",
+    "authorizationInfo": "",
+    "extendedInfo": {
+      "isVisibleInInspector": true,
+      "hideInPanel": false,
+      "expandInPanel": false
+    },
+    "mccState": "SUCCESS",
+    "objGuid": "",
+    "resourceFilePath": "C:\\Users\\26428\\AppData\\Local\\Temp\\dyeh-mcp-aigc\\audio\\1793178865708_h6jhw8o9kcr\\接招语音.mp3",
+    "references": []
+  }
+]

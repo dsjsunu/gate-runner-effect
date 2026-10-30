@@ -1,0 +1,32 @@
+[
+  {
+    "guid": {
+      "a": "ea11be82-c4a4-4a8d-7558-623e005b53ea",
+      "b": ""
+    },
+    "extraType": "ResItemPNGImage",
+    "name": "原版浅色道路纹理",
+    "version": "0.2.0",
+    "rttiType": "Texture",
+    "authorizationInfo": "",
+    "extendedInfo": {
+      "isVisibleInInspector": true,
+      "hideInPanel": false,
+      "expandInPanel": false
+    },
+    "compressionType": 0,
+    "compressQuality": 0,
+    "compressMaxResolution": 512,
+    "enableMipmap": false,
+    "filterMin": 1,
+    "filterMag": 1,
+    "filterMipmap": 0,
+    "wrapModeS": 0,
+    "wrapModeT": 0,
+    "wrapModeR": 0,
+    "premultiplyAlpha": false,
+    "objGuid": "",
+    "resourceFilePath": "C:/Users/26428/Documents/Codex/2026-10-28/m-tok-16-48-mcp-xiangsu/gate-original-assets/原版浅色道路纹理.png",
+    "references": []
+  }
+]

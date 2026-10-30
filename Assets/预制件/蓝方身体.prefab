@@ -1,0 +1,325 @@
+%YAML 1.1
+--- !Prefab &1
+name: !<str> ""
+guid: {a: 5162291530109532869, b: 6751224177797692299}
+entities:
+  - __class: Entity
+    name: !<str> 蓝方身体
+    guid: {a: 4790124738385435756, b: 14273361100826596233}
+    selfvisible: true
+    components:
+      - {localId: 302}
+    layer: 0
+  - __class: Entity
+    name: !<str> blue_body
+    guid: {a: 4778011030754504288, b: 8295578794038667166}
+    selfvisible: true
+    components:
+      - {localId: 303}
+    layer: 0
+  - __class: Entity
+    name: !<str> blue_body_submesh_0
+    guid: {a: 5720301026371030386, b: 1659361424851601798}
+    selfvisible: true
+    components:
+      - {localId: 304}
+      - __class: MeshRenderer
+        name: !<str> mesh0_renderer
+        guid: {a: 5553868003765947382, b: 4029224694989494659}
+        enabled: true
+        sharedMaterials:
+          - {localId: 1, path: 29913ea9-f28e-112e-4cc8-c22d6a519d6f--29913ea9-f28e-112e-4cc8-c22d6a519d6f.material}
+        sortingOrder: 2
+        autoSortingOrder: true
+        useFrustumCulling: true
+        receiveShadow: false
+        lightProbeBlendMode:
+          __class: LightProbeBlendMode
+          value: OFF
+        entirePingPong: false
+        mesh: {localId: 1, path: 430ddddd-7722-ddbf-9487-046f08e2c174--blue_body_submesh_0.mesh}
+        castShadow: true
+    layer: 0
+  - __class: Entity
+    name: !<str> blue_body_submesh_1
+    guid: {a: 5190828819445324901, b: 4209530841579675011}
+    selfvisible: true
+    components:
+      - {localId: 305}
+      - __class: MeshRenderer
+        name: !<str> mesh1_renderer
+        guid: {a: 4824298015614915735, b: 13361159840587510945}
+        enabled: true
+        sharedMaterials:
+          - {localId: 1, path: 2ed66c8a-7893-ff35-a646-1549f08ab0f4--2ed66c8a-7893-ff35-a646-1549f08ab0f4.material}
+        sortingOrder: 3
+        autoSortingOrder: true
+        useFrustumCulling: true
+        receiveShadow: false
+        lightProbeBlendMode:
+          __class: LightProbeBlendMode
+          value: OFF
+        entirePingPong: false
+        mesh: {localId: 1, path: 430ddddd-7722-ddbf-9487-046f08e2c174--blue_body_submesh_1.mesh}
+        castShadow: true
+    layer: 0
+  - __class: Entity
+    name: !<str> blue_body_submesh_2
+    guid: {a: 5422259132789124770, b: 8036934491605350048}
+    selfvisible: true
+    components:
+      - {localId: 306}
+      - __class: MeshRenderer
+        name: !<str> mesh2_renderer
+        guid: {a: 5261779365122267764, b: 7979911114720766114}
+        enabled: true
+        sharedMaterials:
+          - {localId: 1, path: ce752260-c87d-51e0-2e52-e7abd351eec2--ce752260-c87d-51e0-2e52-e7abd351eec2.material}
+        sortingOrder: 4
+        autoSortingOrder: true
+        useFrustumCulling: true
+        receiveShadow: false
+        lightProbeBlendMode:
+          __class: LightProbeBlendMode
+          value: OFF
+        entirePingPong: false
+        mesh: {localId: 1, path: 430ddddd-7722-ddbf-9487-046f08e2c174--blue_body_submesh_2.mesh}
+        castShadow: true
+    layer: 0
+  - __class: Entity
+    name: !<str> blue_body_submesh_3
+    guid: {a: 5598719834884850057, b: 780861959277661065}
+    selfvisible: true
+    components:
+      - {localId: 307}
+      - __class: MeshRenderer
+        name: !<str> mesh3_renderer
+        guid: {a: 5636500542858526464, b: 1133634859432423834}
+        enabled: true
+        sharedMaterials:
+          - {localId: 1, path: 19156f42-e301-2cf2-4c77-0215a2dbb5d1--19156f42-e301-2cf2-4c77-0215a2dbb5d1.material}
+        sortingOrder: 5
+        autoSortingOrder: true
+        useFrustumCulling: true
+        receiveShadow: false
+        lightProbeBlendMode:
+          __class: LightProbeBlendMode
+          value: OFF
+        entirePingPong: false
+        mesh: {localId: 1, path: 430ddddd-7722-ddbf-9487-046f08e2c174--blue_body_submesh_3.mesh}
+        castShadow: true
+    layer: 0
+  - __class: Entity
+    name: !<str> blue_body_submesh_4
+    guid: {a: 5402779002145929065, b: 7079676333141462447}
+    selfvisible: true
+    components:
+      - {localId: 308}
+      - __class: MeshRenderer
+        name: !<str> mesh4_renderer
+        guid: {a: 5383283489814122537, b: 16283591601562357923}
+        enabled: true
+        sharedMaterials:
+          - {localId: 1, path: 38784539-60bc-27ba-02cd-2b114a27329f--38784539-60bc-27ba-02cd-2b114a27329f.material}
+        sortingOrder: 6
+        autoSortingOrder: true
+        useFrustumCulling: true
+        receiveShadow: false
+        lightProbeBlendMode:
+          __class: LightProbeBlendMode
+          value: OFF
+        entirePingPong: false
+        mesh: {localId: 1, path: 430ddddd-7722-ddbf-9487-046f08e2c174--blue_body_submesh_4.mesh}
+        castShadow: true
+    layer: 0
+  - __class: Entity
+    name: !<str> blue_body_submesh_5
+    guid: {a: 4621302025911456098, b: 3943923314115684264}
+    selfvisible: true
+    components:
+      - {localId: 309}
+      - __class: MeshRenderer
+        name: !<str> mesh5_renderer
+        guid: {a: 4685856850217247073, b: 12409520227479418013}
+        enabled: true
+        sharedMaterials:
+          - {localId: 1, path: 871aadd5-6417-ecff-b634-8f590c760f24--871aadd5-6417-ecff-b634-8f590c760f24.material}
+        sortingOrder: 7
+        autoSortingOrder: true
+        useFrustumCulling: true
+        receiveShadow: false
+        lightProbeBlendMode:
+          __class: LightProbeBlendMode
+          value: OFF
+        entirePingPong: false
+        mesh: {localId: 1, path: 430ddddd-7722-ddbf-9487-046f08e2c174--blue_body_submesh_5.mesh}
+        castShadow: true
+    layer: 0
+  - __class: Entity
+    name: !<str> blue_body_submesh_6
+    guid: {a: 4761610576825212272, b: 4026816445692571037}
+    selfvisible: true
+    components:
+      - {localId: 310}
+      - __class: MeshRenderer
+        name: !<str> mesh6_renderer
+        guid: {a: 5578245064802599535, b: 13411705847821074056}
+        enabled: true
+        sharedMaterials:
+          - {localId: 1, path: d8dd1f61-10c0-5fcb-5a94-271333c8272c--d8dd1f61-10c0-5fcb-5a94-271333c8272c.material}
+        sortingOrder: 8
+        autoSortingOrder: true
+        useFrustumCulling: true
+        receiveShadow: false
+        lightProbeBlendMode:
+          __class: LightProbeBlendMode
+          value: OFF
+        entirePingPong: false
+        mesh: {localId: 1, path: 430ddddd-7722-ddbf-9487-046f08e2c174--blue_body_submesh_6.mesh}
+        castShadow: true
+    layer: 0
+  - __class: Entity
+    name: !<str> blue_body_submesh_7
+    guid: {a: 5236995656425694367, b: 16740842031374927754}
+    selfvisible: true
+    components:
+      - {localId: 311}
+      - __class: MeshRenderer
+        name: !<str> mesh7_renderer
+        guid: {a: 5294455924423277608, b: 15587184966858009737}
+        enabled: true
+        sharedMaterials:
+          - {localId: 1, path: 6489fa37-dedd-f61a-70ed-9fecfb238ef5--6489fa37-dedd-f61a-70ed-9fecfb238ef5.material}
+        sortingOrder: 9
+        autoSortingOrder: true
+        useFrustumCulling: true
+        receiveShadow: false
+        lightProbeBlendMode:
+          __class: LightProbeBlendMode
+          value: OFF
+        entirePingPong: false
+        mesh: {localId: 1, path: 430ddddd-7722-ddbf-9487-046f08e2c174--blue_body_submesh_7.mesh}
+        castShadow: true
+    layer: 0
+standaloneResources:
+  __class: Map
+--- !Transform &302
+name: !<str> RootNode
+guid: {a: 5684841651747025684, b: 10551157883286509233}
+enabled: true
+localPosition: {x: 0, y: 0, z: 0}
+localScale: {x: 1, y: 1, z: 1}
+localOrientation: {w: 1, x: 0, y: 0, z: 0}
+children:
+  - {localId: 303}
+mobility:
+  __class: Mobility
+  value: Dynamic
+--- !Transform &303
+name: !<str> blue_body
+guid: {a: 5309390763863732955, b: 11402893070648030853}
+enabled: true
+localPosition: {x: 0, y: 0, z: 0}
+localScale: {x: 1, y: 1, z: 1}
+localOrientation: {w: 1, x: 0, y: 0, z: 0}
+parent: {localId: 302}
+children:
+  - {localId: 304}
+  - {localId: 305}
+  - {localId: 306}
+  - {localId: 307}
+  - {localId: 308}
+  - {localId: 309}
+  - {localId: 310}
+  - {localId: 311}
+mobility:
+  __class: Mobility
+  value: Dynamic
+--- !Transform &304
+name: !<str> ""
+guid: {a: 5221564676058488506, b: 18378246219902558357}
+enabled: true
+localPosition: {x: 0, y: 0, z: 0}
+localScale: {x: 1, y: 1, z: 1}
+localOrientation: {w: 1, x: 0, y: 0, z: 0}
+parent: {localId: 303}
+mobility:
+  __class: Mobility
+  value: Dynamic
+--- !Transform &305
+name: !<str> ""
+guid: {a: 5243466679081310672, b: 9930283682932470667}
+enabled: true
+localPosition: {x: 0, y: 0, z: 0}
+localScale: {x: 1, y: 1, z: 1}
+localOrientation: {w: 1, x: 0, y: 0, z: 0}
+parent: {localId: 303}
+mobility:
+  __class: Mobility
+  value: Dynamic
+--- !Transform &306
+name: !<str> ""
+guid: {a: 5440719373550093119, b: 13622770245372163744}
+enabled: true
+localPosition: {x: 0, y: 0, z: 0}
+localScale: {x: 1, y: 1, z: 1}
+localOrientation: {w: 1, x: 0, y: 0, z: 0}
+parent: {localId: 303}
+mobility:
+  __class: Mobility
+  value: Dynamic
+--- !Transform &307
+name: !<str> ""
+guid: {a: 4943166693288148777, b: 2556285775593977782}
+enabled: true
+localPosition: {x: 0, y: 0, z: 0}
+localScale: {x: 1, y: 1, z: 1}
+localOrientation: {w: 1, x: 0, y: 0, z: 0}
+parent: {localId: 303}
+mobility:
+  __class: Mobility
+  value: Dynamic
+--- !Transform &308
+name: !<str> ""
+guid: {a: 5674854745324973188, b: 18268065041540230586}
+enabled: true
+localPosition: {x: 0, y: 0, z: 0}
+localScale: {x: 1, y: 1, z: 1}
+localOrientation: {w: 1, x: 0, y: 0, z: 0}
+parent: {localId: 303}
+mobility:
+  __class: Mobility
+  value: Dynamic
+--- !Transform &309
+name: !<str> ""
+guid: {a: 4838218445276148834, b: 6084346019868691851}
+enabled: true
+localPosition: {x: 0, y: 0, z: 0}
+localScale: {x: 1, y: 1, z: 1}
+localOrientation: {w: 1, x: 0, y: 0, z: 0}
+parent: {localId: 303}
+mobility:
+  __class: Mobility
+  value: Dynamic
+--- !Transform &310
+name: !<str> ""
+guid: {a: 4786389569693887554, b: 7879712854565184423}
+enabled: true
+localPosition: {x: 0, y: 0, z: 0}
+localScale: {x: 1, y: 1, z: 1}
+localOrientation: {w: 1, x: 0, y: 0, z: 0}
+parent: {localId: 303}
+mobility:
+  __class: Mobility
+  value: Dynamic
+--- !Transform &311
+name: !<str> ""
+guid: {a: 5459516414262411160, b: 3470954014256918417}
+enabled: true
+localPosition: {x: 0, y: 0, z: 0}
+localScale: {x: 1, y: 1, z: 1}
+localOrientation: {w: 1, x: 0, y: 0, z: 0}
+parent: {localId: 303}
+mobility:
+  __class: Mobility
+  value: Dynamic

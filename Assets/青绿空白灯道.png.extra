@@ -1,0 +1,32 @@
+[
+  {
+    "guid": {
+      "a": "dbd0a7e4-9401-05be-c2ad-047445a056e3",
+      "b": ""
+    },
+    "extraType": "ResItemPNGImage",
+    "name": "青绿空白灯道",
+    "version": "0.2.0",
+    "rttiType": "Texture",
+    "authorizationInfo": "",
+    "extendedInfo": {
+      "isVisibleInInspector": true,
+      "hideInPanel": false,
+      "expandInPanel": false
+    },
+    "compressionType": 0,
+    "compressQuality": 0,
+    "compressMaxResolution": 512,
+    "enableMipmap": false,
+    "filterMin": 1,
+    "filterMag": 1,
+    "filterMipmap": 0,
+    "wrapModeS": 0,
+    "wrapModeT": 0,
+    "wrapModeR": 0,
+    "premultiplyAlpha": false,
+    "objGuid": "",
+    "resourceFilePath": "C:\\Users\\26428\\AppData\\Local\\Temp\\dyeh-mcp-aigc\\image\\1793237796690_ww7yjth1ny\\青绿空白灯道.png",
+    "references": []
+  }
+]

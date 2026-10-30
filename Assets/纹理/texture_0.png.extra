@@ -1,0 +1,32 @@
+[
+  {
+    "guid": {
+      "a": "eb9e3e93-c42b-97b9-d4a7-642e74ef2736",
+      "b": ""
+    },
+    "extraType": "ResItemPNGImage",
+    "name": "texture_0",
+    "version": "0.2.0",
+    "rttiType": "Texture",
+    "authorizationInfo": "",
+    "extendedInfo": {
+      "isVisibleInInspector": true,
+      "hideInPanel": false,
+      "expandInPanel": false
+    },
+    "compressionType": 0,
+    "compressQuality": 0,
+    "compressMaxResolution": 512,
+    "enableMipmap": false,
+    "filterMin": 0,
+    "filterMag": 0,
+    "filterMipmap": 0,
+    "wrapModeS": 1,
+    "wrapModeT": 1,
+    "wrapModeR": 0,
+    "premultiplyAlpha": false,
+    "objGuid": "",
+    "resourceFilePath": "C:\\Users\\26428\\AppData\\Local\\DouyinAR\\Instances\\Instance1\\Assets\\TexturesTmp\\texture_0.png",
+    "references": []
+  }
+]

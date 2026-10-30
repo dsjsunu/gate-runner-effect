@@ -1,0 +1,22 @@
+[
+  {
+    "guid": {
+      "a": "2b8e4172-1b95-1027-3876-94a8a31658fd",
+      "b": ""
+    },
+    "extraType": "ResItemMP3",
+    "name": "决胜双灯语音",
+    "version": "0.1.0",
+    "rttiType": "AudioAsset",
+    "authorizationInfo": "",
+    "extendedInfo": {
+      "isVisibleInInspector": true,
+      "hideInPanel": false,
+      "expandInPanel": false
+    },
+    "mccState": "SUCCESS",
+    "objGuid": "",
+    "resourceFilePath": "C:\\Users\\26428\\AppData\\Local\\Temp\\dyeh-mcp-aigc\\audio\\1793179894990_96pqfr4ljbc\\决胜双灯语音.mp3",
+    "references": []
+  }
+]

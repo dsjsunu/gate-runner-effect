@@ -1,0 +1,98 @@
+[
+  {
+    "guid": {
+      "a": "1474962b-c69a-051f-1c88-5f7d38546cff",
+      "b": ""
+    },
+    "extraType": "ResItemAssimpAsset",
+    "name": "boss_body",
+    "version": "0.2.0",
+    "rttiType": "Model",
+    "authorizationInfo": "",
+    "extendedInfo": {
+      "isVisibleInInspector": true,
+      "hideInPanel": false,
+      "expandInPanel": false
+    },
+    "importVertexColor": false,
+    "importBlendshape": true,
+    "importAnimation": true,
+    "importVertexAnimation": false,
+    "importNormalTangentBinormal": true,
+    "regenerateNormalTangentBinormal": true,
+    "importCamera": false,
+    "importLights": false,
+    "optimizeAnimation": true,
+    "convertMetersToCentimeters": false,
+    "castShadow": true,
+    "rigMatchArray": [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    "needAutoRigMatch": true,
+    "objGuid": "",
+    "resourceFilePath": "C:\\Users\\26428\\Desktop\\灵感实验室\\数值门突击\\Assets\\boss_body.glb",
+    "references": [
+      {
+        "propertyName": "0",
+        "guid": "e327778e-7584-c697-84ff-b6b64a96b89e"
+      },
+      {
+        "propertyName": "1",
+        "guid": "08ab8721-4c9d-1d10-8f87-8b2d202182b8"
+      },
+      {
+        "propertyName": "2",
+        "guid": "391bd4e8-eb50-4df1-a426-ef1cf88d9591"
+      },
+      {
+        "propertyName": "3",
+        "guid": "b4e709e4-6e28-bd35-0bc5-5db22b0efe1b"
+      },
+      {
+        "propertyName": "4",
+        "guid": "d7e6edb1-dfd9-2b7e-79ea-8ed1864d1697"
+      },
+      {
+        "propertyName": "5",
+        "guid": "8e6590fa-e1a8-03a2-780e-e1cadffd9c01"
+      }
+    ],
+    "materialsGUIDs": [
+      "e327778e-7584-c697-84ff-b6b64a96b89e",
+      "08ab8721-4c9d-1d10-8f87-8b2d202182b8",
+      "391bd4e8-eb50-4df1-a426-ef1cf88d9591",
+      "b4e709e4-6e28-bd35-0bc5-5db22b0efe1b",
+      "d7e6edb1-dfd9-2b7e-79ea-8ed1864d1697",
+      "8e6590fa-e1a8-03a2-780e-e1cadffd9c01"
+    ],
+    "meshGUIDs": [
+      "6abe65a8-82cf-0ea3-c27a-83c27ba0268f",
+      "e32012c0-e3cb-929d-8a73-1dfae9003d6b",
+      "c6b3e1bd-a6e8-5063-dc33-0109710b8ada",
+      "7bc6fc13-3414-e318-d648-0aef8dc7bff4",
+      "8f4e2cd3-231c-463b-99b7-e31d1650e2b7",
+      "47c1f15c-939d-00e9-215e-613520b8f3e1"
+    ],
+    "animazGUIDs": [],
+    "animazExtras": []
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "guid": {
+      "a": "83ecc4c1-da92-83a2-96f8-0e4b08714dd4",
+      "b": ""
+    },
+    "extraType": "ResItemMP3",
+    "name": "剑刃交锋",
+    "version": "0.1.0",
+    "rttiType": "AudioAsset",
+    "authorizationInfo": "",
+    "extendedInfo": {
+      "isVisibleInInspector": true,
+      "hideInPanel": false,
+      "expandInPanel": false
+    },
+    "mccState": "SUCCESS",
+    "objGuid": "",
+    "resourceFilePath": "C:\\Users\\26428\\AppData\\Local\\Temp\\dyeh-mcp-aigc\\audio\\1793178865070_udn0r2sx7r7\\剑刃交锋.mp3",
+    "references": []
+  }
+]

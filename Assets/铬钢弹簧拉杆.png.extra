@@ -1,0 +1,32 @@
+[
+  {
+    "guid": {
+      "a": "677b35da-325d-7df7-150d-fd05599b80fa",
+      "b": ""
+    },
+    "extraType": "ResItemPNGImage",
+    "name": "铬钢弹簧拉杆",
+    "version": "0.2.0",
+    "rttiType": "Texture",
+    "authorizationInfo": "",
+    "extendedInfo": {
+      "isVisibleInInspector": true,
+      "hideInPanel": false,
+      "expandInPanel": false
+    },
+    "compressionType": 0,
+    "compressQuality": 0,
+    "compressMaxResolution": 512,
+    "enableMipmap": false,
+    "filterMin": 1,
+    "filterMag": 1,
+    "filterMipmap": 0,
+    "wrapModeS": 0,
+    "wrapModeT": 0,
+    "wrapModeR": 0,
+    "premultiplyAlpha": false,
+    "objGuid": "",
+    "resourceFilePath": "C:\\Users\\26428\\AppData\\Local\\Temp\\dyeh-mcp-aigc\\image\\1793244879207_2s8e4k8jpe9\\铬钢弹簧拉杆.png",
+    "references": []
+  }
+]

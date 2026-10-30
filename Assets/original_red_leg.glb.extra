@@ -1,0 +1,68 @@
+[
+  {
+    "guid": {
+      "a": "3a320cc8-cd0a-806b-3e61-8a5f052a0ea6",
+      "b": ""
+    },
+    "extraType": "ResItemAssimpAsset",
+    "name": "original_red_leg",
+    "version": "0.2.0",
+    "rttiType": "Model",
+    "authorizationInfo": "",
+    "extendedInfo": {
+      "isVisibleInInspector": true,
+      "hideInPanel": false,
+      "expandInPanel": false
+    },
+    "importVertexColor": false,
+    "importBlendshape": true,
+    "importAnimation": true,
+    "importVertexAnimation": false,
+    "importNormalTangentBinormal": true,
+    "regenerateNormalTangentBinormal": true,
+    "importCamera": false,
+    "importLights": false,
+    "optimizeAnimation": true,
+    "convertMetersToCentimeters": false,
+    "castShadow": true,
+    "rigMatchArray": [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    "needAutoRigMatch": true,
+    "objGuid": "",
+    "resourceFilePath": "C:/Users/26428/Documents/Codex/2026-10-28/m-tok-16-48-mcp-xiangsu/gate-original-assets/original_red_leg.glb",
+    "references": [
+      {
+        "propertyName": "0",
+        "guid": "acebae76-9f2b-d24b-71e5-c929994b3e2a"
+      }
+    ],
+    "materialsGUIDs": [
+      "acebae76-9f2b-d24b-71e5-c929994b3e2a"
+    ],
+    "meshGUIDs": [
+      "b38607f0-3fca-96ce-83f5-6d7becffb63f"
+    ],
+    "animazGUIDs": [],
+    "animazExtras": []
+  }
+]

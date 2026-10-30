@@ -1,0 +1,32 @@
+[
+  {
+    "guid": {
+      "a": "2f08e715-358b-55a7-d8c0-22515aaeb66c",
+      "b": ""
+    },
+    "extraType": "ResItemPNGImage",
+    "name": "琥珀树脂发射按钮",
+    "version": "0.2.0",
+    "rttiType": "Texture",
+    "authorizationInfo": "",
+    "extendedInfo": {
+      "isVisibleInInspector": true,
+      "hideInPanel": false,
+      "expandInPanel": false
+    },
+    "compressionType": 0,
+    "compressQuality": 0,
+    "compressMaxResolution": 512,
+    "enableMipmap": false,
+    "filterMin": 1,
+    "filterMag": 1,
+    "filterMipmap": 0,
+    "wrapModeS": 0,
+    "wrapModeT": 0,
+    "wrapModeR": 0,
+    "premultiplyAlpha": false,
+    "objGuid": "",
+    "resourceFilePath": "C:\\Users\\26428\\AppData\\Local\\Temp\\dyeh-mcp-aigc\\image\\1793241331711_xywhsngezli\\琥珀树脂发射按钮.png",
+    "references": []
+  }
+]

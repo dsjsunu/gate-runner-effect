@@ -1,0 +1,23 @@
+[
+  {
+    "guid": {
+      "a": "5c9ba176-8742-f8de-f172-85ecca508f61",
+      "b": ""
+    },
+    "extraType": "ResItemJSScript",
+    "name": "MarbleGame",
+    "version": "0.1.0",
+    "authorizationInfo": "",
+    "extendedInfo": {
+      "isVisibleInInspector": true,
+      "hideInPanel": false,
+      "expandInPanel": false
+    },
+    "objGuid": "",
+    "resourceFilePath": "C:\\Users\\26428\\Desktop\\灵感实验室\\银河弹珠特效\\Assets\\Scripts\\MarbleGame.ts",
+    "references": [],
+    "scriptAnnotation": [],
+    "needCompile": true,
+    "isUserScript": true
+  }
+]

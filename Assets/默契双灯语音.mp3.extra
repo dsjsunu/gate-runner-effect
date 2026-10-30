@@ -1,0 +1,22 @@
+[
+  {
+    "guid": {
+      "a": "5a0c04ce-c657-e29e-fb51-d6c8a4bd222f",
+      "b": ""
+    },
+    "extraType": "ResItemMP3",
+    "name": "默契双灯语音",
+    "version": "0.1.0",
+    "rttiType": "AudioAsset",
+    "authorizationInfo": "",
+    "extendedInfo": {
+      "isVisibleInInspector": true,
+      "hideInPanel": false,
+      "expandInPanel": false
+    },
+    "mccState": "SUCCESS",
+    "objGuid": "",
+    "resourceFilePath": "C:\\Users\\26428\\AppData\\Local\\Temp\\dyeh-mcp-aigc\\audio\\1793179904614_k3uhebwloy7\\默契双灯语音.mp3",
+    "references": []
+  }
+]

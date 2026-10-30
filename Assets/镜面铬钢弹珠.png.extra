@@ -1,0 +1,32 @@
+[
+  {
+    "guid": {
+      "a": "70011aac-87ab-755b-321e-4144f4bf2d97",
+      "b": ""
+    },
+    "extraType": "ResItemPNGImage",
+    "name": "镜面铬钢弹珠",
+    "version": "0.2.0",
+    "rttiType": "Texture",
+    "authorizationInfo": "",
+    "extendedInfo": {
+      "isVisibleInInspector": true,
+      "hideInPanel": false,
+      "expandInPanel": false
+    },
+    "compressionType": 0,
+    "compressQuality": 0,
+    "compressMaxResolution": 512,
+    "enableMipmap": false,
+    "filterMin": 1,
+    "filterMag": 1,
+    "filterMipmap": 0,
+    "wrapModeS": 0,
+    "wrapModeT": 0,
+    "wrapModeR": 0,
+    "premultiplyAlpha": false,
+    "objGuid": "",
+    "resourceFilePath": "C:\\Users\\26428\\AppData\\Local\\Temp\\dyeh-mcp-aigc\\image\\1793241331730_kct6j7p3xuf\\镜面铬钢弹珠.png",
+    "references": []
+  }
+]

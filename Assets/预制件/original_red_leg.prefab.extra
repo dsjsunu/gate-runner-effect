@@ -1,0 +1,178 @@
+[
+  {
+    "guid": {
+      "a": "0f3b2e21-bfeb-1438-f94c-fc557c5a23f6",
+      "b": ""
+    },
+    "extraType": "ResItemPrefab",
+    "name": "original_red_leg",
+    "version": "1.0.4",
+    "rttiType": "Prefab",
+    "authorizationInfo": "",
+    "extendedInfo": {
+      "isVisibleInInspector": true,
+      "hideInPanel": false,
+      "expandInPanel": false
+    },
+    "relatedResourceGuids": [
+      "acebae76-9f2b-d24b-71e5-c929994b3e2a",
+      "4f5cc983-2a29-409e-cd06-3889c752609c",
+      "00000000-0000-0000-0000-00000000001c",
+      "00000000-0000-0000-0000-0000000001ff",
+      "00000000-0000-0000-0000-00000000001f",
+      "00000000-0000-0000-0000-000000000021",
+      "00000000-0000-0000-0000-000000000805",
+      "00000000-0000-0000-0000-000000000222",
+      "3a320cc8-cd0a-806b-3e61-8a5f052a0ea6"
+    ],
+    "relatedPrefabResourceGuids": [],
+    "objGuid": "",
+    "references": [
+      {
+        "guid": "acebae76-9f2b-d24b-71e5-c929994b3e2a",
+        "propertyName": "0"
+      },
+      {
+        "guid": "4f5cc983-2a29-409e-cd06-3889c752609c",
+        "propertyName": "1"
+      },
+      {
+        "guid": "00000000-0000-0000-0000-00000000001c",
+        "propertyName": "2"
+      },
+      {
+        "guid": "00000000-0000-0000-0000-0000000001ff",
+        "propertyName": "3"
+      },
+      {
+        "guid": "00000000-0000-0000-0000-00000000001f",
+        "propertyName": "4"
+      },
+      {
+        "guid": "00000000-0000-0000-0000-000000000021",
+        "propertyName": "5"
+      },
+      {
+        "guid": "00000000-0000-0000-0000-000000000805",
+        "propertyName": "6"
+      },
+      {
+        "guid": "00000000-0000-0000-0000-000000000222",
+        "propertyName": "7"
+      },
+      {
+        "guid": "3a320cc8-cd0a-806b-3e61-8a5f052a0ea6",
+        "propertyName": "8"
+      }
+    ],
+    "data": [
+      {
+        "guid": {
+          "a": "c7bf2257-a817-67f8-ca11-bd315a3fa5b1",
+          "b": ""
+        },
+        "objGuid": "Guid(5685928785720445838, 4412750054033835952)",
+        "extraType": "Entity",
+        "name": "original_red_leg",
+        "version": "0.1.0",
+        "rttiType": "SceneObject",
+        "expanded": false,
+        "type": "fbx_child",
+        "isAnimatorBound": false,
+        "modelGUID": "3a320cc8-cd0a-806b-3e61-8a5f052a0ea6",
+        "createdEffectNodeKey": "",
+        "disableSelection": false,
+        "hiddenInHierarchy": false,
+        "editorTags": [],
+        "entityPanel": "3D"
+      },
+      {
+        "guid": {
+          "a": "70e8d3f7-2ec3-6e7a-c75e-612a8a76e752",
+          "b": ""
+        },
+        "objGuid": "Guid(5604722402928169404, 18099586135270513071)",
+        "extraType": "Transform",
+        "name": "变换",
+        "version": "0.1.0",
+        "rttiType": "Transform",
+        "editable": true,
+        "_lazyUpgrateVersion": "0.0.0",
+        "extendedInfo": {
+          "isVisibleInInspector": true,
+          "expanded": true
+        },
+        "eulerAngle": [
+          0,
+          0,
+          0
+        ],
+        "linkage": 0
+      },
+      {
+        "guid": {
+          "a": "7731791a-a6c3-ffdb-3c2b-08995034c35e",
+          "b": ""
+        },
+        "objGuid": "Guid(5639557374364470890, 4149996683066832279)",
+        "extraType": "Transform",
+        "name": "变换",
+        "version": "0.1.0",
+        "rttiType": "Transform",
+        "editable": true,
+        "_lazyUpgrateVersion": "0.0.0",
+        "extendedInfo": {
+          "isVisibleInInspector": true,
+          "expanded": true
+        },
+        "eulerAngle": [
+          0,
+          0,
+          0
+        ],
+        "linkage": 0
+      },
+      {
+        "guid": {
+          "a": "e55c3dd4-c969-43af-191b-72f5fe58b6b9",
+          "b": ""
+        },
+        "objGuid": "Guid(4962545528237286735, 6387111836924422785)",
+        "extraType": "Entity",
+        "name": "original_red_leg",
+        "version": "0.1.0",
+        "rttiType": "SceneObject",
+        "expanded": false,
+        "type": "fbx_child",
+        "isAnimatorBound": false,
+        "modelGUID": "",
+        "createdEffectNodeKey": "",
+        "disableSelection": false,
+        "hiddenInHierarchy": false,
+        "editorTags": [],
+        "entityPanel": "3D"
+      },
+      {
+        "guid": {
+          "a": "4b3dba2f-db9a-5751-ece5-4ff40c2bfb59",
+          "b": ""
+        },
+        "objGuid": "Guid(5652258117563676313, 357165258447512710)",
+        "extraType": "MeshRenderer",
+        "name": "网格渲染",
+        "version": "0.2.0",
+        "rttiType": "MeshRenderer",
+        "editable": true,
+        "_lazyUpgrateVersion": "0.0.0",
+        "extendedInfo": {
+          "isVisibleInInspector": true,
+          "expanded": true
+        },
+        "visualization": false,
+        "shadowMode": 1
+      }
+    ],
+    "effectNodeType": 5,
+    "dependencyData": []
+  }
+]

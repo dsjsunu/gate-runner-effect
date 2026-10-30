@@ -1,0 +1,68 @@
+[
+  {
+    "guid": {
+      "a": "c9acc16c-1bef-85b9-61ac-314b2ee2f8d3",
+      "b": ""
+    },
+    "extraType": "ResItemAssimpAsset",
+    "name": "original_elite_body",
+    "version": "0.2.0",
+    "rttiType": "Model",
+    "authorizationInfo": "",
+    "extendedInfo": {
+      "isVisibleInInspector": true,
+      "hideInPanel": false,
+      "expandInPanel": false
+    },
+    "importVertexColor": false,
+    "importBlendshape": true,
+    "importAnimation": true,
+    "importVertexAnimation": false,
+    "importNormalTangentBinormal": true,
+    "regenerateNormalTangentBinormal": true,
+    "importCamera": false,
+    "importLights": false,
+    "optimizeAnimation": true,
+    "convertMetersToCentimeters": false,
+    "castShadow": true,
+    "rigMatchArray": [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    "needAutoRigMatch": true,
+    "objGuid": "",
+    "resourceFilePath": "C:/Users/26428/Documents/Codex/2026-10-28/m-tok-16-48-mcp-xiangsu/gate-original-assets/original_elite_body.glb",
+    "references": [
+      {
+        "propertyName": "0",
+        "guid": "400a8d65-d59d-978b-1164-670d8c01a6ce"
+      }
+    ],
+    "materialsGUIDs": [
+      "400a8d65-d59d-978b-1164-670d8c01a6ce"
+    ],
+    "meshGUIDs": [
+      "c4d3fe74-8a3a-4567-055f-8ed6312e6dae"
+    ],
+    "animazGUIDs": [],
+    "animazExtras": []
+  }
+]

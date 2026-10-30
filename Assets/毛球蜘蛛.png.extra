@@ -1,0 +1,32 @@
+[
+  {
+    "guid": {
+      "a": "aa59eb34-69f9-54e9-10db-b66230e4da0a",
+      "b": ""
+    },
+    "extraType": "ResItemPNGImage",
+    "name": "毛球蜘蛛",
+    "version": "0.2.0",
+    "rttiType": "Texture",
+    "authorizationInfo": "",
+    "extendedInfo": {
+      "isVisibleInInspector": true,
+      "hideInPanel": false,
+      "expandInPanel": false
+    },
+    "compressionType": 0,
+    "compressQuality": 0,
+    "compressMaxResolution": 512,
+    "enableMipmap": false,
+    "filterMin": 1,
+    "filterMag": 1,
+    "filterMipmap": 0,
+    "wrapModeS": 0,
+    "wrapModeT": 0,
+    "wrapModeR": 0,
+    "premultiplyAlpha": false,
+    "objGuid": "",
+    "resourceFilePath": "C:\\Users\\26428\\AppData\\Local\\Temp\\dyeh-mcp-aigc\\image\\1793178883037_azxbpv3p0yd\\毛球蜘蛛.png",
+    "references": []
+  }
+]

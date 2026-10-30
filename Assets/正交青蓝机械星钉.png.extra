@@ -1,0 +1,32 @@
+[
+  {
+    "guid": {
+      "a": "be410ba6-0452-2124-6251-917dcba3fabe",
+      "b": ""
+    },
+    "extraType": "ResItemPNGImage",
+    "name": "正交青蓝机械星钉",
+    "version": "0.2.0",
+    "rttiType": "Texture",
+    "authorizationInfo": "",
+    "extendedInfo": {
+      "isVisibleInInspector": true,
+      "hideInPanel": false,
+      "expandInPanel": false
+    },
+    "compressionType": 0,
+    "compressQuality": 0,
+    "compressMaxResolution": 512,
+    "enableMipmap": false,
+    "filterMin": 1,
+    "filterMag": 1,
+    "filterMipmap": 0,
+    "wrapModeS": 0,
+    "wrapModeT": 0,
+    "wrapModeR": 0,
+    "premultiplyAlpha": false,
+    "objGuid": "",
+    "resourceFilePath": "C:\\Users\\26428\\AppData\\Local\\Temp\\dyeh-mcp-aigc\\image\\1793241443581_vm0nrtrzhk\\正交青蓝机械星钉.png",
+    "references": []
+  }
+]

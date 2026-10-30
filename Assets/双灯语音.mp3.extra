@@ -1,0 +1,22 @@
+[
+  {
+    "guid": {
+      "a": "2cc06108-2824-2649-029a-4670fd31e73f",
+      "b": ""
+    },
+    "extraType": "ResItemMP3",
+    "name": "双灯语音",
+    "version": "0.1.0",
+    "rttiType": "AudioAsset",
+    "authorizationInfo": "",
+    "extendedInfo": {
+      "isVisibleInInspector": true,
+      "hideInPanel": false,
+      "expandInPanel": false
+    },
+    "mccState": "SUCCESS",
+    "objGuid": "",
+    "resourceFilePath": "C:\\Users\\26428\\AppData\\Local\\Temp\\dyeh-mcp-aigc\\audio\\1793178865098_5k4nf5t4cqw\\双灯语音.mp3",
+    "references": []
+  }
+]

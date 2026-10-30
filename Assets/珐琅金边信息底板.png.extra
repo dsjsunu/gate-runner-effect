@@ -1,0 +1,32 @@
+[
+  {
+    "guid": {
+      "a": "b4abdade-2843-00e2-9dcf-9f2e514fc824",
+      "b": ""
+    },
+    "extraType": "ResItemPNGImage",
+    "name": "珐琅金边信息底板",
+    "version": "0.2.0",
+    "rttiType": "Texture",
+    "authorizationInfo": "",
+    "extendedInfo": {
+      "isVisibleInInspector": true,
+      "hideInPanel": false,
+      "expandInPanel": false
+    },
+    "compressionType": 1,
+    "compressQuality": 0,
+    "compressMaxResolution": 1024,
+    "enableMipmap": false,
+    "filterMin": 1,
+    "filterMag": 1,
+    "filterMipmap": 0,
+    "wrapModeS": 0,
+    "wrapModeT": 0,
+    "wrapModeR": 0,
+    "premultiplyAlpha": false,
+    "objGuid": "",
+    "resourceFilePath": "C:\\Users\\26428\\AppData\\Local\\Temp\\dyeh-mcp-aigc\\image\\1793241331737_l29jkgztg9\\珐琅金边信息底板.png",
+    "references": []
+  }
+]

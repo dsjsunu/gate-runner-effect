@@ -1,0 +1,32 @@
+[
+  {
+    "guid": {
+      "a": "5f1d0dcb-fcc1-8fdf-8767-4478eac40440",
+      "b": ""
+    },
+    "extraType": "ResItemPNGImage",
+    "name": "琥珀拉杆握把",
+    "version": "0.2.0",
+    "rttiType": "Texture",
+    "authorizationInfo": "",
+    "extendedInfo": {
+      "isVisibleInInspector": true,
+      "hideInPanel": false,
+      "expandInPanel": false
+    },
+    "compressionType": 0,
+    "compressQuality": 0,
+    "compressMaxResolution": 512,
+    "enableMipmap": false,
+    "filterMin": 1,
+    "filterMag": 1,
+    "filterMipmap": 0,
+    "wrapModeS": 0,
+    "wrapModeT": 0,
+    "wrapModeR": 0,
+    "premultiplyAlpha": false,
+    "objGuid": "",
+    "resourceFilePath": "C:\\Users\\26428\\AppData\\Local\\Temp\\dyeh-mcp-aigc\\image\\1793244879185_52ilte8sxsw\\琥珀拉杆握把.png",
+    "references": []
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "guid": {
+      "a": "15dbe496-a59b-5fcf-eb8a-69e55db04630",
+      "b": ""
+    },
+    "extraType": "ResItemMP3",
+    "name": "得分叮声",
+    "version": "0.1.0",
+    "rttiType": "AudioAsset",
+    "authorizationInfo": "",
+    "extendedInfo": {
+      "isVisibleInInspector": true,
+      "hideInPanel": false,
+      "expandInPanel": false
+    },
+    "mccState": "SUCCESS",
+    "objGuid": "",
+    "resourceFilePath": "C:\\Users\\26428\\AppData\\Local\\Temp\\dyeh-mcp-aigc\\audio\\1793178862832_zer8g9r0meg\\得分叮声.mp3",
+    "references": []
+  }
+]

@@ -1,0 +1,110 @@
+[
+  {
+    "guid": {
+      "a": "430ddddd-7722-ddbf-9487-046f08e2c174",
+      "b": ""
+    },
+    "extraType": "ResItemAssimpAsset",
+    "name": "blue_body",
+    "version": "0.2.0",
+    "rttiType": "Model",
+    "authorizationInfo": "",
+    "extendedInfo": {
+      "isVisibleInInspector": true,
+      "hideInPanel": false,
+      "expandInPanel": false
+    },
+    "importVertexColor": false,
+    "importBlendshape": true,
+    "importAnimation": true,
+    "importVertexAnimation": false,
+    "importNormalTangentBinormal": true,
+    "regenerateNormalTangentBinormal": true,
+    "importCamera": false,
+    "importLights": false,
+    "optimizeAnimation": true,
+    "convertMetersToCentimeters": false,
+    "castShadow": true,
+    "rigMatchArray": [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    "needAutoRigMatch": true,
+    "objGuid": "",
+    "resourceFilePath": "C:\\Users\\26428\\Desktop\\灵感实验室\\数值门突击\\Assets\\blue_body.glb",
+    "references": [
+      {
+        "propertyName": "0",
+        "guid": "829b90b8-82a4-225f-4068-34b9e3200149"
+      },
+      {
+        "propertyName": "1",
+        "guid": "72e2ac32-69ec-f677-9687-c71ae1fbeaed"
+      },
+      {
+        "propertyName": "2",
+        "guid": "05943bc6-150a-3645-ab24-95fa54d81a2f"
+      },
+      {
+        "propertyName": "3",
+        "guid": "844cfd50-f354-6ff0-c519-9504d2ed5dda"
+      },
+      {
+        "propertyName": "4",
+        "guid": "86d59d5e-03dd-8041-dcce-786c851dd4ec"
+      },
+      {
+        "propertyName": "5",
+        "guid": "723dc566-4e3e-f379-6ce8-943da1d5edcc"
+      },
+      {
+        "propertyName": "6",
+        "guid": "14aacf7f-d252-31c9-e905-48a7c38c1510"
+      },
+      {
+        "propertyName": "7",
+        "guid": "7938e4b0-99dd-3af0-bcbf-3f2c0b7df90c"
+      }
+    ],
+    "materialsGUIDs": [
+      "829b90b8-82a4-225f-4068-34b9e3200149",
+      "72e2ac32-69ec-f677-9687-c71ae1fbeaed",
+      "05943bc6-150a-3645-ab24-95fa54d81a2f",
+      "844cfd50-f354-6ff0-c519-9504d2ed5dda",
+      "86d59d5e-03dd-8041-dcce-786c851dd4ec",
+      "723dc566-4e3e-f379-6ce8-943da1d5edcc",
+      "14aacf7f-d252-31c9-e905-48a7c38c1510",
+      "7938e4b0-99dd-3af0-bcbf-3f2c0b7df90c"
+    ],
+    "meshGUIDs": [
+      "554d7e1a-9743-2cc4-fb91-e9f92b43dc79",
+      "a09a3246-21e5-540d-1524-32e4282bfa0a",
+      "36e17cf6-38fb-685c-d4ae-c46a0308ac44",
+      "90cdfc70-70c0-ee40-adb5-19eac35e9b21",
+      "32af43a0-e2a9-414f-ffec-b85eaad00db9",
+      "25784e19-67d3-ecd9-25f0-d0dc724791f2",
+      "b0c5f721-2494-639f-557a-48cecf6611a0",
+      "f8244d02-436e-2e29-b21c-5a7e177b29f6"
+    ],
+    "animazGUIDs": [],
+    "animazExtras": []
+  }
+]

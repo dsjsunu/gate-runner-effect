@@ -1,0 +1,32 @@
+[
+  {
+    "guid": {
+      "a": "c0578e12-e7cd-95ca-b510-13e7eaafed07",
+      "b": ""
+    },
+    "extraType": "ResItemPNGImage",
+    "name": "烤漆金属银河机台",
+    "version": "0.2.0",
+    "rttiType": "Texture",
+    "authorizationInfo": "",
+    "extendedInfo": {
+      "isVisibleInInspector": true,
+      "hideInPanel": false,
+      "expandInPanel": false
+    },
+    "compressionType": 1,
+    "compressQuality": 0,
+    "compressMaxResolution": 1024,
+    "enableMipmap": false,
+    "filterMin": 1,
+    "filterMag": 1,
+    "filterMipmap": 0,
+    "wrapModeS": 0,
+    "wrapModeT": 0,
+    "wrapModeR": 0,
+    "premultiplyAlpha": false,
+    "objGuid": "",
+    "resourceFilePath": "C:\\Users\\26428\\AppData\\Local\\Temp\\dyeh-mcp-aigc\\image\\1793241334457_x24knbxnnm\\烤漆金属银河机台.png",
+    "references": []
+  }
+]

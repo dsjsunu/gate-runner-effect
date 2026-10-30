@@ -1,0 +1,68 @@
+[
+  {
+    "guid": {
+      "a": "f457a537-066f-b776-ee6e-5b742314f63f",
+      "b": ""
+    },
+    "extraType": "ResItemAssimpAsset",
+    "name": "original_boss_body",
+    "version": "0.2.0",
+    "rttiType": "Model",
+    "authorizationInfo": "",
+    "extendedInfo": {
+      "isVisibleInInspector": true,
+      "hideInPanel": false,
+      "expandInPanel": false
+    },
+    "importVertexColor": false,
+    "importBlendshape": true,
+    "importAnimation": true,
+    "importVertexAnimation": false,
+    "importNormalTangentBinormal": true,
+    "regenerateNormalTangentBinormal": true,
+    "importCamera": false,
+    "importLights": false,
+    "optimizeAnimation": true,
+    "convertMetersToCentimeters": false,
+    "castShadow": true,
+    "rigMatchArray": [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    "needAutoRigMatch": true,
+    "objGuid": "",
+    "resourceFilePath": "C:/Users/26428/Documents/Codex/2026-10-28/m-tok-16-48-mcp-xiangsu/gate-original-assets/original_boss_body.glb",
+    "references": [
+      {
+        "propertyName": "0",
+        "guid": "3979fa53-e6bb-9874-2ecc-366b0d566d4d"
+      }
+    ],
+    "materialsGUIDs": [
+      "3979fa53-e6bb-9874-2ecc-366b0d566d4d"
+    ],
+    "meshGUIDs": [
+      "0438d08e-d4e8-afb0-24ae-2141ce7aafef"
+    ],
+    "animazGUIDs": [],
+    "animazExtras": []
+  }
+]

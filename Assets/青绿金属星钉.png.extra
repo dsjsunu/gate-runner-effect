@@ -1,0 +1,32 @@
+[
+  {
+    "guid": {
+      "a": "41496766-64ae-b6e3-265f-1a9f3b86d6dd",
+      "b": ""
+    },
+    "extraType": "ResItemPNGImage",
+    "name": "青绿金属星钉",
+    "version": "0.2.0",
+    "rttiType": "Texture",
+    "authorizationInfo": "",
+    "extendedInfo": {
+      "isVisibleInInspector": true,
+      "hideInPanel": false,
+      "expandInPanel": false
+    },
+    "compressionType": 0,
+    "compressQuality": 0,
+    "compressMaxResolution": 512,
+    "enableMipmap": false,
+    "filterMin": 1,
+    "filterMag": 1,
+    "filterMipmap": 0,
+    "wrapModeS": 0,
+    "wrapModeT": 0,
+    "wrapModeR": 0,
+    "premultiplyAlpha": false,
+    "objGuid": "",
+    "resourceFilePath": "C:\\Users\\26428\\AppData\\Local\\Temp\\dyeh-mcp-aigc\\image\\1793237797211_74o7osnz5xp\\青绿金属星钉.png",
+    "references": []
+  }
+]

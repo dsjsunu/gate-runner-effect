@@ -1,0 +1,32 @@
+[
+  {
+    "guid": {
+      "a": "5daca03c-db28-fae3-8bea-5476584756b7",
+      "b": ""
+    },
+    "extraType": "ResItemPNGImage",
+    "name": "白紫蛛网弹丸",
+    "version": "0.2.0",
+    "rttiType": "Texture",
+    "authorizationInfo": "",
+    "extendedInfo": {
+      "isVisibleInInspector": true,
+      "hideInPanel": false,
+      "expandInPanel": false
+    },
+    "compressionType": 0,
+    "compressQuality": 0,
+    "compressMaxResolution": 512,
+    "enableMipmap": false,
+    "filterMin": 1,
+    "filterMag": 1,
+    "filterMipmap": 0,
+    "wrapModeS": 0,
+    "wrapModeT": 0,
+    "wrapModeR": 0,
+    "premultiplyAlpha": false,
+    "objGuid": "",
+    "resourceFilePath": "C:\\Users\\26428\\AppData\\Local\\Temp\\dyeh-mcp-aigc\\image\\1793179904632_xy6remc0s9\\白紫蛛网弹丸.png",
+    "references": []
+  }
+]

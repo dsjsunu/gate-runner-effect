@@ -1,0 +1,22 @@
+[
+  {
+    "guid": {
+      "a": "bc005bbe-d2a6-b627-4f2a-5cfa469a72d1",
+      "b": ""
+    },
+    "extraType": "ResItemMP3",
+    "name": "星卡揭晓音",
+    "version": "0.1.0",
+    "rttiType": "AudioAsset",
+    "authorizationInfo": "",
+    "extendedInfo": {
+      "isVisibleInInspector": true,
+      "hideInPanel": false,
+      "expandInPanel": false
+    },
+    "mccState": "SUCCESS",
+    "objGuid": "",
+    "resourceFilePath": "C:\\Users\\26428\\AppData\\Local\\Temp\\dyeh-mcp-aigc\\audio\\1793237783281_tcihmkdifx9\\星卡揭晓音.mp3",
+    "references": []
+  }
+]

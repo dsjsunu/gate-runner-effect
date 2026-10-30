@@ -1,0 +1,22 @@
+[
+  {
+    "guid": {
+      "a": "8f605284-f966-b706-a4c9-ad53a94fe55a",
+      "b": ""
+    },
+    "extraType": "ResItemMP3",
+    "name": "受击噗声",
+    "version": "0.1.0",
+    "rttiType": "AudioAsset",
+    "authorizationInfo": "",
+    "extendedInfo": {
+      "isVisibleInInspector": true,
+      "hideInPanel": false,
+      "expandInPanel": false
+    },
+    "mccState": "SUCCESS",
+    "objGuid": "",
+    "resourceFilePath": "C:\\Users\\26428\\AppData\\Local\\Temp\\dyeh-mcp-aigc\\audio\\1793178865650_lrfk8spbxg8\\受击噗声.mp3",
+    "references": []
+  }
+]

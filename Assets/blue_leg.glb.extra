@@ -1,0 +1,74 @@
+[
+  {
+    "guid": {
+      "a": "5d246465-33c9-18a9-9287-7343e9ed27b0",
+      "b": ""
+    },
+    "extraType": "ResItemAssimpAsset",
+    "name": "blue_leg",
+    "version": "0.2.0",
+    "rttiType": "Model",
+    "authorizationInfo": "",
+    "extendedInfo": {
+      "isVisibleInInspector": true,
+      "hideInPanel": false,
+      "expandInPanel": false
+    },
+    "importVertexColor": false,
+    "importBlendshape": true,
+    "importAnimation": true,
+    "importVertexAnimation": false,
+    "importNormalTangentBinormal": true,
+    "regenerateNormalTangentBinormal": true,
+    "importCamera": false,
+    "importLights": false,
+    "optimizeAnimation": true,
+    "convertMetersToCentimeters": false,
+    "castShadow": true,
+    "rigMatchArray": [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    "needAutoRigMatch": true,
+    "objGuid": "",
+    "resourceFilePath": "C:/Users/26428/Documents/Codex/2026-10-28/m-tok-16-48-mcp-xiangsu/gate-original-assets/blue_leg.glb",
+    "references": [
+      {
+        "propertyName": "0",
+        "guid": "69241e32-8a54-a283-a02c-44fbe031fa6a"
+      },
+      {
+        "propertyName": "1",
+        "guid": "54ef26aa-f105-bdca-f6b9-0bfa61a9b2b2"
+      }
+    ],
+    "materialsGUIDs": [
+      "69241e32-8a54-a283-a02c-44fbe031fa6a",
+      "54ef26aa-f105-bdca-f6b9-0bfa61a9b2b2"
+    ],
+    "meshGUIDs": [
+      "dfe2280f-418e-90bb-1120-891f719dcc50",
+      "481c1d96-60a6-9ad8-8b55-6a8c612a7fdb"
+    ],
+    "animazGUIDs": [],
+    "animazExtras": []
+  }
+]

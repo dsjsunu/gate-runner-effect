@@ -1,0 +1,32 @@
+[
+  {
+    "guid": {
+      "a": "5c5caed2-69d6-481b-b01c-34f04c3d0d23",
+      "b": ""
+    },
+    "extraType": "ResItemPNGImage",
+    "name": "糖果紫夜",
+    "version": "0.2.0",
+    "rttiType": "Texture",
+    "authorizationInfo": "",
+    "extendedInfo": {
+      "isVisibleInInspector": true,
+      "hideInPanel": false,
+      "expandInPanel": false
+    },
+    "compressionType": 0,
+    "compressQuality": 0,
+    "compressMaxResolution": 512,
+    "enableMipmap": false,
+    "filterMin": 1,
+    "filterMag": 1,
+    "filterMipmap": 0,
+    "wrapModeS": 0,
+    "wrapModeT": 0,
+    "wrapModeR": 0,
+    "premultiplyAlpha": false,
+    "objGuid": "",
+    "resourceFilePath": "C:\\Users\\26428\\AppData\\Local\\Temp\\dyeh-mcp-aigc\\image\\1793178877235_aatnsdzpgy\\糖果紫夜.png",
+    "references": []
+  }
+]

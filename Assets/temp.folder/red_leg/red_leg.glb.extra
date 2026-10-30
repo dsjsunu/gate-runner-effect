@@ -1,0 +1,74 @@
+[
+  {
+    "guid": {
+      "a": "25527d08-c70b-71be-98a5-7df1d77a3dbe",
+      "b": ""
+    },
+    "extraType": "ResItemAssimpAsset",
+    "name": "red_leg",
+    "version": "0.2.0",
+    "rttiType": "Model",
+    "authorizationInfo": "",
+    "extendedInfo": {
+      "isVisibleInInspector": true,
+      "hideInPanel": false,
+      "expandInPanel": false
+    },
+    "importVertexColor": false,
+    "importBlendshape": true,
+    "importAnimation": true,
+    "importVertexAnimation": false,
+    "importNormalTangentBinormal": true,
+    "regenerateNormalTangentBinormal": true,
+    "importCamera": false,
+    "importLights": false,
+    "optimizeAnimation": true,
+    "convertMetersToCentimeters": false,
+    "castShadow": true,
+    "rigMatchArray": [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    "needAutoRigMatch": true,
+    "objGuid": "",
+    "resourceFilePath": "C:\\Users\\26428\\Desktop\\灵感实验室\\数值门突击\\Assets\\red_leg.glb",
+    "references": [
+      {
+        "propertyName": "0",
+        "guid": "d12da7e8-da06-c830-665d-588efc4bf5d5"
+      },
+      {
+        "propertyName": "1",
+        "guid": "20397f68-5277-2e55-0b71-ef6ad354e686"
+      }
+    ],
+    "materialsGUIDs": [
+      "d12da7e8-da06-c830-665d-588efc4bf5d5",
+      "20397f68-5277-2e55-0b71-ef6ad354e686"
+    ],
+    "meshGUIDs": [
+      "20fd84a8-9819-ec20-9134-d3899aa4bfad",
+      "78f8c37e-2c35-1041-18fc-6a3ca93d7b9b"
+    ],
+    "animazGUIDs": [],
+    "animazExtras": []
+  }
+]

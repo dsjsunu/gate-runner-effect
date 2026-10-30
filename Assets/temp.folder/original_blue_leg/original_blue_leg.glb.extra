@@ -1,0 +1,68 @@
+[
+  {
+    "guid": {
+      "a": "79a7faef-25cf-a0a0-0614-e499964ddf4a",
+      "b": ""
+    },
+    "extraType": "ResItemAssimpAsset",
+    "name": "original_blue_leg",
+    "version": "0.2.0",
+    "rttiType": "Model",
+    "authorizationInfo": "",
+    "extendedInfo": {
+      "isVisibleInInspector": true,
+      "hideInPanel": false,
+      "expandInPanel": false
+    },
+    "importVertexColor": false,
+    "importBlendshape": true,
+    "importAnimation": true,
+    "importVertexAnimation": false,
+    "importNormalTangentBinormal": true,
+    "regenerateNormalTangentBinormal": true,
+    "importCamera": false,
+    "importLights": false,
+    "optimizeAnimation": true,
+    "convertMetersToCentimeters": false,
+    "castShadow": true,
+    "rigMatchArray": [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    "needAutoRigMatch": true,
+    "objGuid": "",
+    "resourceFilePath": "C:\\Users\\26428\\Desktop\\灵感实验室\\数值门突击\\Assets\\original_blue_leg.glb",
+    "references": [
+      {
+        "propertyName": "0",
+        "guid": "97e85a01-d660-1de3-3a04-b6894950497a"
+      }
+    ],
+    "materialsGUIDs": [
+      "97e85a01-d660-1de3-3a04-b6894950497a"
+    ],
+    "meshGUIDs": [
+      "3e794c72-7ea2-48e3-a9d8-90a8af146c3f"
+    ],
+    "animazGUIDs": [],
+    "animazExtras": []
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "guid": {
+      "a": "41b902c4-d8e4-ab54-d0cc-737aa3de563d",
+      "b": ""
+    },
+    "extraType": "ResItemPNGImage",
+    "name": "紫绒蝙蝠",
+    "version": "0.2.0",
+    "rttiType": "Texture",
+    "authorizationInfo": "",
+    "extendedInfo": {
+      "isVisibleInInspector": true,
+      "hideInPanel": false,
+      "expandInPanel": false
+    },
+    "compressionType": 0,
+    "compressQuality": 0,
+    "compressMaxResolution": 512,
+    "enableMipmap": false,
+    "filterMin": 1,
+    "filterMag": 1,
+    "filterMipmap": 0,
+    "wrapModeS": 0,
+    "wrapModeT": 0,
+    "wrapModeR": 0,
+    "premultiplyAlpha": false,
+    "objGuid": "",
+    "resourceFilePath": "C:\\Users\\26428\\AppData\\Local\\Temp\\dyeh-mcp-aigc\\image\\1793178879491_uz4p6rtz6v\\紫绒蝙蝠.png",
+    "references": []
+  }
+]

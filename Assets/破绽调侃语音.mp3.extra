@@ -1,0 +1,22 @@
+[
+  {
+    "guid": {
+      "a": "e5f7c210-4143-a62e-891e-15690053ca19",
+      "b": ""
+    },
+    "extraType": "ResItemMP3",
+    "name": "破绽调侃语音",
+    "version": "0.1.0",
+    "rttiType": "AudioAsset",
+    "authorizationInfo": "",
+    "extendedInfo": {
+      "isVisibleInInspector": true,
+      "hideInPanel": false,
+      "expandInPanel": false
+    },
+    "mccState": "SUCCESS",
+    "objGuid": "",
+    "resourceFilePath": "C:\\Users\\26428\\AppData\\Local\\Temp\\dyeh-mcp-aigc\\audio\\1793179895986_mot7dljh5zi\\破绽调侃语音.mp3",
+    "references": []
+  }
+]

@@ -1,0 +1,23 @@
+[
+  {
+    "guid": {
+      "a": "fef7446c-03e0-0e90-680f-3081ad4dcceb",
+      "b": ""
+    },
+    "extraType": "ResItemJSScript",
+    "name": "FencingGame",
+    "version": "0.1.0",
+    "authorizationInfo": "",
+    "extendedInfo": {
+      "isVisibleInInspector": true,
+      "hideInPanel": false,
+      "expandInPanel": false
+    },
+    "objGuid": "",
+    "resourceFilePath": "C:\\Users\\26428\\Desktop\\fx-proto\\像塑工程\\击剑三择\\Assets\\Scripts\\FencingGame.ts",
+    "references": [],
+    "scriptAnnotation": [],
+    "needCompile": true,
+    "isUserScript": true
+  }
+]

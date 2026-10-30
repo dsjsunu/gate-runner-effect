@@ -1,0 +1,68 @@
+[
+  {
+    "guid": {
+      "a": "a6a098f1-c45f-16f3-ddad-b16e679c1978",
+      "b": ""
+    },
+    "extraType": "ResItemAssimpAsset",
+    "name": "original_red_body",
+    "version": "0.2.0",
+    "rttiType": "Model",
+    "authorizationInfo": "",
+    "extendedInfo": {
+      "isVisibleInInspector": true,
+      "hideInPanel": false,
+      "expandInPanel": false
+    },
+    "importVertexColor": false,
+    "importBlendshape": true,
+    "importAnimation": true,
+    "importVertexAnimation": false,
+    "importNormalTangentBinormal": true,
+    "regenerateNormalTangentBinormal": true,
+    "importCamera": false,
+    "importLights": false,
+    "optimizeAnimation": true,
+    "convertMetersToCentimeters": false,
+    "castShadow": true,
+    "rigMatchArray": [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    "needAutoRigMatch": true,
+    "objGuid": "",
+    "resourceFilePath": "C:\\Users\\26428\\Desktop\\灵感实验室\\数值门突击\\Assets\\original_red_body.glb",
+    "references": [
+      {
+        "propertyName": "0",
+        "guid": "f7aaf6a8-b048-338a-7e90-d873b0ae56d3"
+      }
+    ],
+    "materialsGUIDs": [
+      "f7aaf6a8-b048-338a-7e90-d873b0ae56d3"
+    ],
+    "meshGUIDs": [
+      "8847b823-d378-a550-f753-1822363894d1"
+    ],
+    "animazGUIDs": [],
+    "animazExtras": []
+  }
+]

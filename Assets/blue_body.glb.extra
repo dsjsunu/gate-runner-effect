@@ -1,0 +1,110 @@
+[
+  {
+    "guid": {
+      "a": "430ddddd-7722-ddbf-9487-046f08e2c174",
+      "b": ""
+    },
+    "extraType": "ResItemAssimpAsset",
+    "name": "blue_body",
+    "version": "0.2.0",
+    "rttiType": "Model",
+    "authorizationInfo": "",
+    "extendedInfo": {
+      "isVisibleInInspector": true,
+      "hideInPanel": false,
+      "expandInPanel": false
+    },
+    "importVertexColor": false,
+    "importBlendshape": true,
+    "importAnimation": true,
+    "importVertexAnimation": false,
+    "importNormalTangentBinormal": true,
+    "regenerateNormalTangentBinormal": true,
+    "importCamera": false,
+    "importLights": false,
+    "optimizeAnimation": true,
+    "convertMetersToCentimeters": false,
+    "castShadow": true,
+    "rigMatchArray": [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    "needAutoRigMatch": true,
+    "objGuid": "",
+    "resourceFilePath": "C:/Users/26428/Documents/Codex/2026-10-28/m-tok-16-48-mcp-xiangsu/gate-original-assets/blue_body.glb",
+    "references": [
+      {
+        "propertyName": "0",
+        "guid": "29913ea9-f28e-112e-4cc8-c22d6a519d6f"
+      },
+      {
+        "propertyName": "1",
+        "guid": "2ed66c8a-7893-ff35-a646-1549f08ab0f4"
+      },
+      {
+        "propertyName": "2",
+        "guid": "ce752260-c87d-51e0-2e52-e7abd351eec2"
+      },
+      {
+        "propertyName": "3",
+        "guid": "19156f42-e301-2cf2-4c77-0215a2dbb5d1"
+      },
+      {
+        "propertyName": "4",
+        "guid": "38784539-60bc-27ba-02cd-2b114a27329f"
+      },
+      {
+        "propertyName": "5",
+        "guid": "871aadd5-6417-ecff-b634-8f590c760f24"
+      },
+      {
+        "propertyName": "6",
+        "guid": "d8dd1f61-10c0-5fcb-5a94-271333c8272c"
+      },
+      {
+        "propertyName": "7",
+        "guid": "6489fa37-dedd-f61a-70ed-9fecfb238ef5"
+      }
+    ],
+    "materialsGUIDs": [
+      "29913ea9-f28e-112e-4cc8-c22d6a519d6f",
+      "2ed66c8a-7893-ff35-a646-1549f08ab0f4",
+      "ce752260-c87d-51e0-2e52-e7abd351eec2",
+      "19156f42-e301-2cf2-4c77-0215a2dbb5d1",
+      "38784539-60bc-27ba-02cd-2b114a27329f",
+      "871aadd5-6417-ecff-b634-8f590c760f24",
+      "d8dd1f61-10c0-5fcb-5a94-271333c8272c",
+      "6489fa37-dedd-f61a-70ed-9fecfb238ef5"
+    ],
+    "meshGUIDs": [
+      "554d7e1a-9743-2cc4-fb91-e9f92b43dc79",
+      "a09a3246-21e5-540d-1524-32e4282bfa0a",
+      "36e17cf6-38fb-685c-d4ae-c46a0308ac44",
+      "90cdfc70-70c0-ee40-adb5-19eac35e9b21",
+      "32af43a0-e2a9-414f-ffec-b85eaad00db9",
+      "25784e19-67d3-ecd9-25f0-d0dc724791f2",
+      "b0c5f721-2494-639f-557a-48cecf6611a0",
+      "f8244d02-436e-2e29-b21c-5a7e177b29f6"
+    ],
+    "animazGUIDs": [],
+    "animazExtras": []
+  }
+]

@@ -1,0 +1,12 @@
+# 像塑编辑器缓存（可重建）
+Library/
+
+# 代理运行日志
+.mcp_agent/
+
+# 编辑器本地设置
+.vscode/
+
+*.log
+.DS_Store
+Thumbs.db

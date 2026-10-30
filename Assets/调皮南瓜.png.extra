@@ -1,0 +1,32 @@
+[
+  {
+    "guid": {
+      "a": "83840b35-af70-4056-f037-27b689736606",
+      "b": ""
+    },
+    "extraType": "ResItemPNGImage",
+    "name": "调皮南瓜",
+    "version": "0.2.0",
+    "rttiType": "Texture",
+    "authorizationInfo": "",
+    "extendedInfo": {
+      "isVisibleInInspector": true,
+      "hideInPanel": false,
+      "expandInPanel": false
+    },
+    "compressionType": 0,
+    "compressQuality": 0,
+    "compressMaxResolution": 512,
+    "enableMipmap": false,
+    "filterMin": 1,
+    "filterMag": 1,
+    "filterMipmap": 0,
+    "wrapModeS": 0,
+    "wrapModeT": 0,
+    "wrapModeR": 0,
+    "premultiplyAlpha": false,
+    "objGuid": "",
+    "resourceFilePath": "C:\\Users\\26428\\AppData\\Local\\Temp\\dyeh-mcp-aigc\\image\\1793178985314_92t2hpryl0k\\调皮南瓜.png",
+    "references": []
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "guid": {
+      "a": "7df25949-c2c6-f4e3-ce5c-37f8db0c7867",
+      "b": ""
+    },
+    "extraType": "ResItemPNGImage",
+    "name": "珊瑚橙发射按钮",
+    "version": "0.2.0",
+    "rttiType": "Texture",
+    "authorizationInfo": "",
+    "extendedInfo": {
+      "isVisibleInInspector": true,
+      "hideInPanel": false,
+      "expandInPanel": false
+    },
+    "compressionType": 0,
+    "compressQuality": 0,
+    "compressMaxResolution": 512,
+    "enableMipmap": false,
+    "filterMin": 1,
+    "filterMag": 1,
+    "filterMipmap": 0,
+    "wrapModeS": 0,
+    "wrapModeT": 0,
+    "wrapModeR": 0,
+    "premultiplyAlpha": false,
+    "objGuid": "",
+    "resourceFilePath": "C:\\Users\\26428\\AppData\\Local\\Temp\\dyeh-mcp-aigc\\image\\1793237797461_exj275yh6rn\\珊瑚橙发射按钮.png",
+    "references": []
+  }
+]

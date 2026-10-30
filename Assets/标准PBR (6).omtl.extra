@@ -1,0 +1,56 @@
+[
+  {
+    "guid": {
+      "a": "4b9303de-12de-7f9c-c9dd-b1bab344bcd6",
+      "b": ""
+    },
+    "extraType": "ResItemMaterialOmtl",
+    "name": "标准PBR (6)",
+    "version": "0.6.0",
+    "rttiType": "Material",
+    "authorizationInfo": "",
+    "extendedInfo": {
+      "isVisibleInInspector": true,
+      "hideInPanel": false,
+      "expandInPanel": false
+    },
+    "objGuid": "",
+    "resourceFilePath": "C:\\Users\\26428\\AppData\\Local\\Douyin AR\\Resources\\BuiltinResource\\assets\\OrionShaderLibrary\\3D\\BuiltIn\\StandardPBR\\Standard PBR.omtl",
+    "references": [
+      {
+        "propertyName": "_MRAOTexture",
+        "guid": "00000000-0000-0000-0000-00000000001c"
+      },
+      {
+        "propertyName": "_EmissiveTexture",
+        "guid": "00000000-0000-0000-0000-00000000001c"
+      },
+      {
+        "propertyName": "_RimHighlightTexture",
+        "guid": "00000000-0000-0000-0000-00000000001c"
+      },
+      {
+        "propertyName": "_ThinFilmTexture",
+        "guid": "00000000-0000-0000-0000-00000000001c"
+      },
+      {
+        "propertyName": "_AlbedoTexture",
+        "guid": "ea11be82-c4a4-4a8d-7558-623e005b53ea"
+      },
+      {
+        "propertyName": "_OpacityTexture",
+        "guid": "00000000-0000-0000-0000-000000000021"
+      },
+      {
+        "propertyName": "_NormalTexture",
+        "guid": "00000000-0000-0000-0000-00000000001f"
+      },
+      {
+        "propertyName": "_RadianceTexture",
+        "guid": "00000000-0000-0000-0000-000000000805"
+      }
+    ],
+    "skinObjGuid": "Guid(5609917906602490477, 826942073004315553)",
+    "currAuslVersion": "2.0.6"
+  }
+]

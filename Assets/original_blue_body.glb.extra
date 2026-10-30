@@ -1,0 +1,68 @@
+[
+  {
+    "guid": {
+      "a": "2f948e7e-7755-c17c-4638-29535923ceb5",
+      "b": ""
+    },
+    "extraType": "ResItemAssimpAsset",
+    "name": "original_blue_body",
+    "version": "0.2.0",
+    "rttiType": "Model",
+    "authorizationInfo": "",
+    "extendedInfo": {
+      "isVisibleInInspector": true,
+      "hideInPanel": false,
+      "expandInPanel": false
+    },
+    "importVertexColor": false,
+    "importBlendshape": true,
+    "importAnimation": true,
+    "importVertexAnimation": false,
+    "importNormalTangentBinormal": true,
+    "regenerateNormalTangentBinormal": true,
+    "importCamera": false,
+    "importLights": false,
+    "optimizeAnimation": true,
+    "convertMetersToCentimeters": false,
+    "castShadow": true,
+    "rigMatchArray": [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    "needAutoRigMatch": true,
+    "objGuid": "",
+    "resourceFilePath": "C:/Users/26428/Documents/Codex/2026-10-28/m-tok-16-48-mcp-xiangsu/gate-original-assets/original_blue_body.glb",
+    "references": [
+      {
+        "propertyName": "0",
+        "guid": "cbbdcbe8-8d06-e2b3-d920-dc2f8396d0f7"
+      }
+    ],
+    "materialsGUIDs": [
+      "cbbdcbe8-8d06-e2b3-d920-dc2f8396d0f7"
+    ],
+    "meshGUIDs": [
+      "ac9e0113-08d6-5ffe-2cee-f032c1d2cf50"
+    ],
+    "animazGUIDs": [],
+    "animazExtras": []
+  }
+]

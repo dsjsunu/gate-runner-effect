@@ -1,0 +1,60 @@
+%YAML 1.1
+--- !Prefab &1
+name: !<str> ""
+guid: {a: 5108995149206361175, b: 3269865520551184043}
+entities:
+  - __class: Entity
+    name: !<str> original_red_leg
+    guid: {a: 5685928785720445838, b: 4412750054033835952}
+    selfvisible: true
+    components:
+      - {localId: 28}
+    layer: 0
+  - __class: Entity
+    name: !<str> original_red_leg
+    guid: {a: 4962545528237286735, b: 6387111836924422785}
+    selfvisible: true
+    components:
+      - {localId: 29}
+      - __class: MeshRenderer
+        name: !<str> mesh0_renderer
+        guid: {a: 5652258117563676313, b: 357165258447512710}
+        enabled: true
+        sharedMaterials:
+          - {localId: 1, path: acebae76-9f2b-d24b-71e5-c929994b3e2a--acebae76-9f2b-d24b-71e5-c929994b3e2a.material}
+        sortingOrder: 9
+        autoSortingOrder: true
+        useFrustumCulling: true
+        receiveShadow: false
+        lightProbeBlendMode:
+          __class: LightProbeBlendMode
+          value: OFF
+        entirePingPong: false
+        mesh: {localId: 1, path: 3a320cc8-cd0a-806b-3e61-8a5f052a0ea6--original_red_leg.mesh}
+        castShadow: true
+    layer: 0
+standaloneResources:
+  __class: Map
+--- !Transform &28
+name: !<str> RootNode
+guid: {a: 5604722402928169404, b: 18099586135270513071}
+enabled: true
+localPosition: {x: 0, y: 0, z: 0}
+localScale: {x: 1, y: 1, z: 1}
+localOrientation: {w: 1, x: 0, y: 0, z: 0}
+children:
+  - {localId: 29}
+mobility:
+  __class: Mobility
+  value: Dynamic
+--- !Transform &29
+name: !<str> original_red_leg
+guid: {a: 5639557374364470890, b: 4149996683066832279}
+enabled: true
+localPosition: {x: 0, y: 0, z: 0}
+localScale: {x: 1, y: 1, z: 1}
+localOrientation: {w: 1, x: 0, y: 0, z: 0}
+parent: {localId: 28}
+mobility:
+  __class: Mobility
+  value: Dynamic

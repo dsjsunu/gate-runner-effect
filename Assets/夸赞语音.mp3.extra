@@ -1,0 +1,22 @@
+[
+  {
+    "guid": {
+      "a": "dd1c952b-a187-860c-d487-7547f722faf0",
+      "b": ""
+    },
+    "extraType": "ResItemMP3",
+    "name": "夸赞语音",
+    "version": "0.1.0",
+    "rttiType": "AudioAsset",
+    "authorizationInfo": "",
+    "extendedInfo": {
+      "isVisibleInInspector": true,
+      "hideInPanel": false,
+      "expandInPanel": false
+    },
+    "mccState": "SUCCESS",
+    "objGuid": "",
+    "resourceFilePath": "C:\\Users\\26428\\AppData\\Local\\Temp\\dyeh-mcp-aigc\\audio\\1793178867780_a8m7se29u87\\夸赞语音.mp3",
+    "references": []
+  }
+]

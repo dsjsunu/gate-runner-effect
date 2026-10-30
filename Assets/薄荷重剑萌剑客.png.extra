@@ -1,0 +1,32 @@
+[
+  {
+    "guid": {
+      "a": "17dccbf4-0ec6-5990-412e-790aba09d185",
+      "b": ""
+    },
+    "extraType": "ResItemPNGImage",
+    "name": "薄荷重剑萌剑客",
+    "version": "0.2.0",
+    "rttiType": "Texture",
+    "authorizationInfo": "",
+    "extendedInfo": {
+      "isVisibleInInspector": true,
+      "hideInPanel": false,
+      "expandInPanel": false
+    },
+    "compressionType": 0,
+    "compressQuality": 0,
+    "compressMaxResolution": 512,
+    "enableMipmap": false,
+    "filterMin": 1,
+    "filterMag": 1,
+    "filterMipmap": 0,
+    "wrapModeS": 0,
+    "wrapModeT": 0,
+    "wrapModeR": 0,
+    "premultiplyAlpha": false,
+    "objGuid": "",
+    "resourceFilePath": "C:/Users/26428/Desktop/fx-proto/像塑工程/幽灵躲南瓜/Assets/薄荷重剑萌剑客.png",
+    "references": []
+  }
+]
